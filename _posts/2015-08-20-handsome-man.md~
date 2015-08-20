@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Handsome Man"
+description: ""
+category: 
+tags: []
+---
+{% include JB/setup %}
